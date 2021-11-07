@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-html-boilerplate",
+  "version": "1.0.0",
+  "description": "Tailwind CSS HTML Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./src/app.css -o ./css/app.css -w"
+  },
+  "keywords": [],
+  "author": "Md Rafsan Jani Rafin",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
